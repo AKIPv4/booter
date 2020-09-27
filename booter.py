@@ -18,7 +18,7 @@ sent = 0
 
 while True:
     try:
-            if time.time() > timeout
+            if time.time() > timeout:
                     break
             else
                     pass
